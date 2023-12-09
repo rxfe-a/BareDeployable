@@ -1,0 +1,22 @@
+{
+    "name": "BareDeployable",
+    "version": "2.0.1",
+    "description": "A deployable version of the Bare Server",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rxfe-a/BareDeployable.git"
+    },
+    "keywords": [
+      "tomp",
+      "tomphttp"
+    ],
+    "author": "",
+    "license": "GPL-3.0-or-later",
+    "dependencies": {
+      "@tomphttp/bare-server-node": "^2.0.1"
+    }
+  }

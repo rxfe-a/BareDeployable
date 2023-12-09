@@ -1,0 +1,7 @@
+{
+    "name": "BareDeployable",
+    "description": "The deployable version of Bare Server Node for the latest version",
+    "repository": "https://github.com/rxfe-a/BareDeployable",
+    "logo": "https://cdn.discordapp.com/attachments/778795869389717538/1183111695221141561/Bare.png",
+    "keywords": ["seismetic", "poopyhead"]
+}
